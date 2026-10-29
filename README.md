@@ -9,6 +9,12 @@
 [![Evaluation F1](https://img.shields.io/badge/Evaluation%20F1-1.0000-brightgreen.svg)](docs/evaluation_report.md)
 [![Reproducibility](https://img.shields.io/badge/Determinism-100%25%20Bitwise-success.svg)](scripts/check_reproducibility.py)
 
+> [!NOTE]
+> ### 👤 Project Ownership & Contributor Clarification
+> - **Sole Project Author & Developer:** **`Rushikesh-GH`** ([rushidivekar21@gmail.com](mailto:rushidivekar21@gmail.com))
+> - **Notice Regarding Secondary Contributor Profile:** The local Windows development machine previously had a legacy global Git configuration under `PratikDivekar4211`. All architecture, engineering, data generation, backend services, 3D WebGL visualizations, and test validations are the **exclusive individual work of Rushikesh-GH**. The second handle appeared only as a default local environment artifact and holds no commits or code contributions.
+> - **Adherence to Recruitment Guidelines:** Confirms 100% individual authorship as stipulated in the YottaFlex AI Candidate Project Guidelines.
+
 ---
 
 ## 1. Business Problem & Ethical Guardrails

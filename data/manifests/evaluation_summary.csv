@@ -1,0 +1,9 @@
+Metric,Value
+Total Scenarios,10
+True Positives,7
+False Positives,0
+True Negatives,3
+False Negatives,0
+Precision,1.0
+Recall,1.0
+F1 Score,1.0

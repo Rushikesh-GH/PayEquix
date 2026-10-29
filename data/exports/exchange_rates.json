@@ -1,0 +1,122 @@
+[
+  {
+    "rate_id": "FX-EUR-USD-2024",
+    "from_currency": "EUR",
+    "to_currency": "USD",
+    "rate": 1.095,
+    "effective_date": "2024-01-01",
+    "source": "ECB_REFERENCE"
+  },
+  {
+    "rate_id": "FX-EUR-USD-2025",
+    "from_currency": "EUR",
+    "to_currency": "USD",
+    "rate": 1.082,
+    "effective_date": "2025-01-01",
+    "source": "ECB_REFERENCE"
+  },
+  {
+    "rate_id": "FX-EUR-USD-2026",
+    "from_currency": "EUR",
+    "to_currency": "USD",
+    "rate": 1.088,
+    "effective_date": "2026-01-01",
+    "source": "ECB_REFERENCE"
+  },
+  {
+    "rate_id": "FX-GBP-USD-2024",
+    "from_currency": "GBP",
+    "to_currency": "USD",
+    "rate": 1.275,
+    "effective_date": "2024-01-01",
+    "source": "ECB_REFERENCE"
+  },
+  {
+    "rate_id": "FX-GBP-USD-2025",
+    "from_currency": "GBP",
+    "to_currency": "USD",
+    "rate": 1.268,
+    "effective_date": "2025-01-01",
+    "source": "ECB_REFERENCE"
+  },
+  {
+    "rate_id": "FX-GBP-USD-2026",
+    "from_currency": "GBP",
+    "to_currency": "USD",
+    "rate": 1.282,
+    "effective_date": "2026-01-01",
+    "source": "ECB_REFERENCE"
+  },
+  {
+    "rate_id": "FX-INR-USD-2024",
+    "from_currency": "INR",
+    "to_currency": "USD",
+    "rate": 0.012,
+    "effective_date": "2024-01-01",
+    "source": "ECB_REFERENCE"
+  },
+  {
+    "rate_id": "FX-INR-USD-2025",
+    "from_currency": "INR",
+    "to_currency": "USD",
+    "rate": 0.0118,
+    "effective_date": "2025-01-01",
+    "source": "ECB_REFERENCE"
+  },
+  {
+    "rate_id": "FX-INR-USD-2026",
+    "from_currency": "INR",
+    "to_currency": "USD",
+    "rate": 0.0115,
+    "effective_date": "2026-01-01",
+    "source": "ECB_REFERENCE"
+  },
+  {
+    "rate_id": "FX-SGD-USD-2024",
+    "from_currency": "SGD",
+    "to_currency": "USD",
+    "rate": 0.755,
+    "effective_date": "2024-01-01",
+    "source": "ECB_REFERENCE"
+  },
+  {
+    "rate_id": "FX-SGD-USD-2025",
+    "from_currency": "SGD",
+    "to_currency": "USD",
+    "rate": 0.75,
+    "effective_date": "2025-01-01",
+    "source": "ECB_REFERENCE"
+  },
+  {
+    "rate_id": "FX-SGD-USD-2026",
+    "from_currency": "SGD",
+    "to_currency": "USD",
+    "rate": 0.762,
+    "effective_date": "2026-01-01",
+    "source": "ECB_REFERENCE"
+  },
+  {
+    "rate_id": "FX-USD-USD-2024",
+    "from_currency": "USD",
+    "to_currency": "USD",
+    "rate": 1.0,
+    "effective_date": "2024-01-01",
+    "source": "ECB_REFERENCE"
+  },
+  {
+    "rate_id": "FX-USD-USD-2025",
+    "from_currency": "USD",
+    "to_currency": "USD",
+    "rate": 1.0,
+    "effective_date": "2025-01-01",
+    "source": "ECB_REFERENCE"
+  },
+  {
+    "rate_id": "FX-USD-USD-2026",
+    "from_currency": "USD",
+    "to_currency": "USD",
+    "rate": 1.0,
+    "effective_date": "2026-01-01",
+    "source": "ECB_REFERENCE"
+  }
+]

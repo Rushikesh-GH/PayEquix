@@ -1,0 +1,11 @@
+location_id,location_code,city,region,country,currency_code,cost_of_labor_zone,active_status
+LOC-DE-BER,DE-BER,Berlin,Berlin,Germany,EUR,Zone 2,True
+LOC-IN-BLR,IN-BLR,Bangalore,Karnataka,India,INR,Zone 2,True
+LOC-IN-DEL,IN-DEL,Delhi NCR,Delhi,India,INR,Zone 2,True
+LOC-IN-HYD,IN-HYD,Hyderabad,Telangana,India,INR,Zone 3,True
+LOC-IN-MUM,IN-MUM,Mumbai,Maharashtra,India,INR,Zone 1,True
+LOC-SG-SIN,SG-SIN,Singapore,Central,Singapore,SGD,Zone 1,True
+LOC-UK-LON,UK-LON,London,Greater London,United Kingdom,GBP,Zone 1,True
+LOC-US-AUS,US-AUS,Austin,Texas,United States,USD,Zone 2,True
+LOC-US-NYC,US-NYC,New York City,New York,United States,USD,Zone 1,True
+LOC-US-SFO,US-SFO,San Francisco,California,United States,USD,Zone 1,True

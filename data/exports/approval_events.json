@@ -1,0 +1,542 @@
+[
+  {
+    "event_id": "AE-000001",
+    "adjustment_id": "ADJ-2026-000001",
+    "action": "submitted",
+    "actor_user_id": "hr_lead",
+    "comments": "Submitted proposal for market adjustment review.",
+    "previous_status": "draft",
+    "new_status": "pending_review",
+    "created_at": "2026-01-15T10:30:00"
+  },
+  {
+    "event_id": "AE-000002",
+    "adjustment_id": "ADJ-2026-000002",
+    "action": "submitted",
+    "actor_user_id": "hr_lead",
+    "comments": "Submitted proposal for market adjustment review.",
+    "previous_status": "draft",
+    "new_status": "pending_review",
+    "created_at": "2026-01-15T10:30:00"
+  },
+  {
+    "event_id": "AE-000003",
+    "adjustment_id": "ADJ-2026-000002",
+    "action": "approved",
+    "actor_user_id": "admin",
+    "comments": "Approved based on peer review and department budget allocation.",
+    "previous_status": "pending_review",
+    "new_status": "approved",
+    "created_at": "2026-01-17T14:00:00"
+  },
+  {
+    "event_id": "AE-000004",
+    "adjustment_id": "ADJ-2026-000003",
+    "action": "submitted",
+    "actor_user_id": "hr_lead",
+    "comments": "Submitted proposal for market adjustment review.",
+    "previous_status": "draft",
+    "new_status": "pending_review",
+    "created_at": "2026-01-15T10:30:00"
+  },
+  {
+    "event_id": "AE-000005",
+    "adjustment_id": "ADJ-2026-000004",
+    "action": "submitted",
+    "actor_user_id": "hr_lead",
+    "comments": "Submitted proposal for market adjustment review.",
+    "previous_status": "draft",
+    "new_status": "pending_review",
+    "created_at": "2026-01-15T10:30:00"
+  },
+  {
+    "event_id": "AE-000006",
+    "adjustment_id": "ADJ-2026-000004",
+    "action": "approved",
+    "actor_user_id": "admin",
+    "comments": "Approved based on peer review and department budget allocation.",
+    "previous_status": "pending_review",
+    "new_status": "approved",
+    "created_at": "2026-01-17T14:00:00"
+  },
+  {
+    "event_id": "AE-000007",
+    "adjustment_id": "ADJ-2026-000005",
+    "action": "submitted",
+    "actor_user_id": "hr_lead",
+    "comments": "Submitted proposal for market adjustment review.",
+    "previous_status": "draft",
+    "new_status": "pending_review",
+    "created_at": "2026-01-15T10:30:00"
+  },
+  {
+    "event_id": "AE-000008",
+    "adjustment_id": "ADJ-2026-000006",
+    "action": "submitted",
+    "actor_user_id": "hr_lead",
+    "comments": "Submitted proposal for market adjustment review.",
+    "previous_status": "draft",
+    "new_status": "pending_review",
+    "created_at": "2026-01-15T10:30:00"
+  },
+  {
+    "event_id": "AE-000009",
+    "adjustment_id": "ADJ-2026-000007",
+    "action": "submitted",
+    "actor_user_id": "hr_lead",
+    "comments": "Submitted proposal for market adjustment review.",
+    "previous_status": "draft",
+    "new_status": "pending_review",
+    "created_at": "2026-01-15T10:30:00"
+  },
+  {
+    "event_id": "AE-000010",
+    "adjustment_id": "ADJ-2026-000008",
+    "action": "submitted",
+    "actor_user_id": "hr_lead",
+    "comments": "Submitted proposal for market adjustment review.",
+    "previous_status": "draft",
+    "new_status": "pending_review",
+    "created_at": "2026-01-15T10:30:00"
+  },
+  {
+    "event_id": "AE-000011",
+    "adjustment_id": "ADJ-2026-000008",
+    "action": "approved",
+    "actor_user_id": "admin",
+    "comments": "Approved based on peer review and department budget allocation.",
+    "previous_status": "pending_review",
+    "new_status": "approved",
+    "created_at": "2026-01-17T14:00:00"
+  },
+  {
+    "event_id": "AE-000012",
+    "adjustment_id": "ADJ-2026-000009",
+    "action": "submitted",
+    "actor_user_id": "hr_lead",
+    "comments": "Submitted proposal for market adjustment review.",
+    "previous_status": "draft",
+    "new_status": "pending_review",
+    "created_at": "2026-01-15T10:30:00"
+  },
+  {
+    "event_id": "AE-000013",
+    "adjustment_id": "ADJ-2026-000010",
+    "action": "submitted",
+    "actor_user_id": "hr_lead",
+    "comments": "Submitted proposal for market adjustment review.",
+    "previous_status": "draft",
+    "new_status": "pending_review",
+    "created_at": "2026-01-15T10:30:00"
+  },
+  {
+    "event_id": "AE-000014",
+    "adjustment_id": "ADJ-2026-000010",
+    "action": "approved",
+    "actor_user_id": "admin",
+    "comments": "Approved based on peer review and department budget allocation.",
+    "previous_status": "pending_review",
+    "new_status": "approved",
+    "created_at": "2026-01-17T14:00:00"
+  },
+  {
+    "event_id": "AE-000015",
+    "adjustment_id": "ADJ-2026-000011",
+    "action": "submitted",
+    "actor_user_id": "hr_lead",
+    "comments": "Submitted proposal for market adjustment review.",
+    "previous_status": "draft",
+    "new_status": "pending_review",
+    "created_at": "2026-01-15T10:30:00"
+  },
+  {
+    "event_id": "AE-000016",
+    "adjustment_id": "ADJ-2026-000012",
+    "action": "submitted",
+    "actor_user_id": "hr_lead",
+    "comments": "Submitted proposal for market adjustment review.",
+    "previous_status": "draft",
+    "new_status": "pending_review",
+    "created_at": "2026-01-15T10:30:00"
+  },
+  {
+    "event_id": "AE-000017",
+    "adjustment_id": "ADJ-2026-000013",
+    "action": "submitted",
+    "actor_user_id": "hr_lead",
+    "comments": "Submitted proposal for market adjustment review.",
+    "previous_status": "draft",
+    "new_status": "pending_review",
+    "created_at": "2026-01-15T10:30:00"
+  },
+  {
+    "event_id": "AE-000018",
+    "adjustment_id": "ADJ-2026-000014",
+    "action": "submitted",
+    "actor_user_id": "hr_lead",
+    "comments": "Submitted proposal for market adjustment review.",
+    "previous_status": "draft",
+    "new_status": "pending_review",
+    "created_at": "2026-01-15T10:30:00"
+  },
+  {
+    "event_id": "AE-000019",
+    "adjustment_id": "ADJ-2026-000014",
+    "action": "approved",
+    "actor_user_id": "admin",
+    "comments": "Approved based on peer review and department budget allocation.",
+    "previous_status": "pending_review",
+    "new_status": "approved",
+    "created_at": "2026-01-17T14:00:00"
+  },
+  {
+    "event_id": "AE-000020",
+    "adjustment_id": "ADJ-2026-000015",
+    "action": "submitted",
+    "actor_user_id": "hr_lead",
+    "comments": "Submitted proposal for market adjustment review.",
+    "previous_status": "draft",
+    "new_status": "pending_review",
+    "created_at": "2026-01-15T10:30:00"
+  },
+  {
+    "event_id": "AE-000021",
+    "adjustment_id": "ADJ-2026-000016",
+    "action": "submitted",
+    "actor_user_id": "hr_lead",
+    "comments": "Submitted proposal for market adjustment review.",
+    "previous_status": "draft",
+    "new_status": "pending_review",
+    "created_at": "2026-01-15T10:30:00"
+  },
+  {
+    "event_id": "AE-000022",
+    "adjustment_id": "ADJ-2026-000016",
+    "action": "approved",
+    "actor_user_id": "admin",
+    "comments": "Approved based on peer review and department budget allocation.",
+    "previous_status": "pending_review",
+    "new_status": "approved",
+    "created_at": "2026-01-17T14:00:00"
+  },
+  {
+    "event_id": "AE-000023",
+    "adjustment_id": "ADJ-2026-000017",
+    "action": "submitted",
+    "actor_user_id": "hr_lead",
+    "comments": "Submitted proposal for market adjustment review.",
+    "previous_status": "draft",
+    "new_status": "pending_review",
+    "created_at": "2026-01-15T10:30:00"
+  },
+  {
+    "event_id": "AE-000024",
+    "adjustment_id": "ADJ-2026-000018",
+    "action": "submitted",
+    "actor_user_id": "hr_lead",
+    "comments": "Submitted proposal for market adjustment review.",
+    "previous_status": "draft",
+    "new_status": "pending_review",
+    "created_at": "2026-01-15T10:30:00"
+  },
+  {
+    "event_id": "AE-000025",
+    "adjustment_id": "ADJ-2026-000019",
+    "action": "submitted",
+    "actor_user_id": "hr_lead",
+    "comments": "Submitted proposal for market adjustment review.",
+    "previous_status": "draft",
+    "new_status": "pending_review",
+    "created_at": "2026-01-15T10:30:00"
+  },
+  {
+    "event_id": "AE-000026",
+    "adjustment_id": "ADJ-2026-000020",
+    "action": "submitted",
+    "actor_user_id": "hr_lead",
+    "comments": "Submitted proposal for market adjustment review.",
+    "previous_status": "draft",
+    "new_status": "pending_review",
+    "created_at": "2026-01-15T10:30:00"
+  },
+  {
+    "event_id": "AE-000027",
+    "adjustment_id": "ADJ-2026-000020",
+    "action": "approved",
+    "actor_user_id": "admin",
+    "comments": "Approved based on peer review and department budget allocation.",
+    "previous_status": "pending_review",
+    "new_status": "approved",
+    "created_at": "2026-01-17T14:00:00"
+  },
+  {
+    "event_id": "AE-000028",
+    "adjustment_id": "ADJ-2026-000021",
+    "action": "submitted",
+    "actor_user_id": "hr_lead",
+    "comments": "Submitted proposal for market adjustment review.",
+    "previous_status": "draft",
+    "new_status": "pending_review",
+    "created_at": "2026-01-15T10:30:00"
+  },
+  {
+    "event_id": "AE-000029",
+    "adjustment_id": "ADJ-2026-000022",
+    "action": "submitted",
+    "actor_user_id": "hr_lead",
+    "comments": "Submitted proposal for market adjustment review.",
+    "previous_status": "draft",
+    "new_status": "pending_review",
+    "created_at": "2026-01-15T10:30:00"
+  },
+  {
+    "event_id": "AE-000030",
+    "adjustment_id": "ADJ-2026-000022",
+    "action": "approved",
+    "actor_user_id": "admin",
+    "comments": "Approved based on peer review and department budget allocation.",
+    "previous_status": "pending_review",
+    "new_status": "approved",
+    "created_at": "2026-01-17T14:00:00"
+  },
+  {
+    "event_id": "AE-000031",
+    "adjustment_id": "ADJ-2026-000023",
+    "action": "submitted",
+    "actor_user_id": "hr_lead",
+    "comments": "Submitted proposal for market adjustment review.",
+    "previous_status": "draft",
+    "new_status": "pending_review",
+    "created_at": "2026-01-15T10:30:00"
+  },
+  {
+    "event_id": "AE-000032",
+    "adjustment_id": "ADJ-2026-000024",
+    "action": "submitted",
+    "actor_user_id": "hr_lead",
+    "comments": "Submitted proposal for market adjustment review.",
+    "previous_status": "draft",
+    "new_status": "pending_review",
+    "created_at": "2026-01-15T10:30:00"
+  },
+  {
+    "event_id": "AE-000033",
+    "adjustment_id": "ADJ-2026-000025",
+    "action": "submitted",
+    "actor_user_id": "hr_lead",
+    "comments": "Submitted proposal for market adjustment review.",
+    "previous_status": "draft",
+    "new_status": "pending_review",
+    "created_at": "2026-01-15T10:30:00"
+  },
+  {
+    "event_id": "AE-000034",
+    "adjustment_id": "ADJ-2026-000026",
+    "action": "submitted",
+    "actor_user_id": "hr_lead",
+    "comments": "Submitted proposal for market adjustment review.",
+    "previous_status": "draft",
+    "new_status": "pending_review",
+    "created_at": "2026-01-15T10:30:00"
+  },
+  {
+    "event_id": "AE-000035",
+    "adjustment_id": "ADJ-2026-000026",
+    "action": "approved",
+    "actor_user_id": "admin",
+    "comments": "Approved based on peer review and department budget allocation.",
+    "previous_status": "pending_review",
+    "new_status": "approved",
+    "created_at": "2026-01-17T14:00:00"
+  },
+  {
+    "event_id": "AE-000036",
+    "adjustment_id": "ADJ-2026-000027",
+    "action": "submitted",
+    "actor_user_id": "hr_lead",
+    "comments": "Submitted proposal for market adjustment review.",
+    "previous_status": "draft",
+    "new_status": "pending_review",
+    "created_at": "2026-01-15T10:30:00"
+  },
+  {
+    "event_id": "AE-000037",
+    "adjustment_id": "ADJ-2026-000028",
+    "action": "submitted",
+    "actor_user_id": "hr_lead",
+    "comments": "Submitted proposal for market adjustment review.",
+    "previous_status": "draft",
+    "new_status": "pending_review",
+    "created_at": "2026-01-15T10:30:00"
+  },
+  {
+    "event_id": "AE-000038",
+    "adjustment_id": "ADJ-2026-000028",
+    "action": "approved",
+    "actor_user_id": "admin",
+    "comments": "Approved based on peer review and department budget allocation.",
+    "previous_status": "pending_review",
+    "new_status": "approved",
+    "created_at": "2026-01-17T14:00:00"
+  },
+  {
+    "event_id": "AE-000039",
+    "adjustment_id": "ADJ-2026-000029",
+    "action": "submitted",
+    "actor_user_id": "hr_lead",
+    "comments": "Submitted proposal for market adjustment review.",
+    "previous_status": "draft",
+    "new_status": "pending_review",
+    "created_at": "2026-01-15T10:30:00"
+  },
+  {
+    "event_id": "AE-000040",
+    "adjustment_id": "ADJ-2026-000030",
+    "action": "submitted",
+    "actor_user_id": "hr_lead",
+    "comments": "Submitted proposal for market adjustment review.",
+    "previous_status": "draft",
+    "new_status": "pending_review",
+    "created_at": "2026-01-15T10:30:00"
+  },
+  {
+    "event_id": "AE-000041",
+    "adjustment_id": "ADJ-2026-000031",
+    "action": "submitted",
+    "actor_user_id": "hr_lead",
+    "comments": "Submitted proposal for market adjustment review.",
+    "previous_status": "draft",
+    "new_status": "pending_review",
+    "created_at": "2026-01-15T10:30:00"
+  },
+  {
+    "event_id": "AE-000042",
+    "adjustment_id": "ADJ-2026-000032",
+    "action": "submitted",
+    "actor_user_id": "hr_lead",
+    "comments": "Submitted proposal for market adjustment review.",
+    "previous_status": "draft",
+    "new_status": "pending_review",
+    "created_at": "2026-01-15T10:30:00"
+  },
+  {
+    "event_id": "AE-000043",
+    "adjustment_id": "ADJ-2026-000032",
+    "action": "approved",
+    "actor_user_id": "admin",
+    "comments": "Approved based on peer review and department budget allocation.",
+    "previous_status": "pending_review",
+    "new_status": "approved",
+    "created_at": "2026-01-17T14:00:00"
+  },
+  {
+    "event_id": "AE-000044",
+    "adjustment_id": "ADJ-2026-000033",
+    "action": "submitted",
+    "actor_user_id": "hr_lead",
+    "comments": "Submitted proposal for market adjustment review.",
+    "previous_status": "draft",
+    "new_status": "pending_review",
+    "created_at": "2026-01-15T10:30:00"
+  },
+  {
+    "event_id": "AE-000045",
+    "adjustment_id": "ADJ-2026-000034",
+    "action": "submitted",
+    "actor_user_id": "hr_lead",
+    "comments": "Submitted proposal for market adjustment review.",
+    "previous_status": "draft",
+    "new_status": "pending_review",
+    "created_at": "2026-01-15T10:30:00"
+  },
+  {
+    "event_id": "AE-000046",
+    "adjustment_id": "ADJ-2026-000034",
+    "action": "approved",
+    "actor_user_id": "admin",
+    "comments": "Approved based on peer review and department budget allocation.",
+    "previous_status": "pending_review",
+    "new_status": "approved",
+    "created_at": "2026-01-17T14:00:00"
+  },
+  {
+    "event_id": "AE-000047",
+    "adjustment_id": "ADJ-2026-000035",
+    "action": "submitted",
+    "actor_user_id": "hr_lead",
+    "comments": "Submitted proposal for market adjustment review.",
+    "previous_status": "draft",
+    "new_status": "pending_review",
+    "created_at": "2026-01-15T10:30:00"
+  },
+  {
+    "event_id": "AE-000048",
+    "adjustment_id": "ADJ-2026-000036",
+    "action": "submitted",
+    "actor_user_id": "hr_lead",
+    "comments": "Submitted proposal for market adjustment review.",
+    "previous_status": "draft",
+    "new_status": "pending_review",
+    "created_at": "2026-01-15T10:30:00"
+  },
+  {
+    "event_id": "AE-000049",
+    "adjustment_id": "ADJ-2026-000037",
+    "action": "submitted",
+    "actor_user_id": "hr_lead",
+    "comments": "Submitted proposal for market adjustment review.",
+    "previous_status": "draft",
+    "new_status": "pending_review",
+    "created_at": "2026-01-15T10:30:00"
+  },
+  {
+    "event_id": "AE-000050",
+    "adjustment_id": "ADJ-2026-000038",
+    "action": "submitted",
+    "actor_user_id": "hr_lead",
+    "comments": "Submitted proposal for market adjustment review.",
+    "previous_status": "draft",
+    "new_status": "pending_review",
+    "created_at": "2026-01-15T10:30:00"
+  },
+  {
+    "event_id": "AE-000051",
+    "adjustment_id": "ADJ-2026-000038",
+    "action": "approved",
+    "actor_user_id": "admin",
+    "comments": "Approved based on peer review and department budget allocation.",
+    "previous_status": "pending_review",
+    "new_status": "approved",
+    "created_at": "2026-01-17T14:00:00"
+  },
+  {
+    "event_id": "AE-000052",
+    "adjustment_id": "ADJ-2026-000039",
+    "action": "submitted",
+    "actor_user_id": "hr_lead",
+    "comments": "Submitted proposal for market adjustment review.",
+    "previous_status": "draft",
+    "new_status": "pending_review",
+    "created_at": "2026-01-15T10:30:00"
+  },
+  {
+    "event_id": "AE-000053",
+    "adjustment_id": "ADJ-2026-000040",
+    "action": "submitted",
+    "actor_user_id": "hr_lead",
+    "comments": "Submitted proposal for market adjustment review.",
+    "previous_status": "draft",
+    "new_status": "pending_review",
+    "created_at": "2026-01-15T10:30:00"
+  },
+  {
+    "event_id": "AE-000054",
+    "adjustment_id": "ADJ-2026-000040",
+    "action": "approved",
+    "actor_user_id": "admin",
+    "comments": "Approved based on peer review and department budget allocation.",
+    "previous_status": "pending_review",
+    "new_status": "approved",
+    "created_at": "2026-01-17T14:00:00"
+  }
+]

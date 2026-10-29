@@ -1,0 +1,3 @@
+Predicted / Actual,Actual Positive (Anomaly),Actual Negative (Valid)
+Predicted Positive (Anomaly),7,0
+Predicted Negative (Valid),0,3

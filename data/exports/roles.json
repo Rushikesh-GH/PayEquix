@@ -1,0 +1,227 @@
+[
+  {
+    "role_id": "ROL-ACC",
+    "role_code": "ACC",
+    "role_name": "Corporate Accountant",
+    "job_family": "Finance",
+    "job_function": "Accounting & Payroll",
+    "description": "General ledger, statutory compliance, and payroll review",
+    "active_status": true
+  },
+  {
+    "role_id": "ROL-AE",
+    "role_code": "AE",
+    "role_name": "Account Executive",
+    "job_family": "Sales",
+    "job_function": "Enterprise Sales",
+    "description": "Manages enterprise sales cycles, pipeline, and contract closing",
+    "active_status": true
+  },
+  {
+    "role_id": "ROL-BA",
+    "role_code": "BA",
+    "role_name": "Business Analyst",
+    "job_family": "Data & Analytics",
+    "job_function": "Business Intelligence",
+    "description": "Translates business questions into KPI dashboards and reports",
+    "active_status": true
+  },
+  {
+    "role_id": "ROL-CSM",
+    "role_code": "CSM",
+    "role_name": "Customer Success Manager",
+    "job_family": "Customer Success",
+    "job_function": "Client Engagement",
+    "description": "Manages customer retention, onboarding, and satisfaction",
+    "active_status": true
+  },
+  {
+    "role_id": "ROL-DE",
+    "role_code": "DE",
+    "role_name": "Data Engineer",
+    "job_family": "Engineering",
+    "job_function": "Data Infrastructure",
+    "description": "Designs data pipelines, ETL, warehouses, and streaming",
+    "active_status": true
+  },
+  {
+    "role_id": "ROL-DGM",
+    "role_code": "DGM",
+    "role_name": "Digital Marketing Specialist",
+    "job_family": "Marketing",
+    "job_function": "Growth & Acquisition",
+    "description": "Drives SEO, SEM, content, and digital performance",
+    "active_status": true
+  },
+  {
+    "role_id": "ROL-DS",
+    "role_code": "DS",
+    "role_name": "Data Scientist",
+    "job_family": "Data & Analytics",
+    "job_function": "Data Science",
+    "description": "Builds statistical models, experiments, and predictive analytics",
+    "active_status": true
+  },
+  {
+    "role_id": "ROL-FA",
+    "role_code": "FA",
+    "role_name": "Financial Analyst",
+    "job_family": "Finance",
+    "job_function": "Corporate Finance",
+    "description": "Financial planning, forecasting, and budget modeling",
+    "active_status": true
+  },
+  {
+    "role_id": "ROL-HRP",
+    "role_code": "HRP",
+    "role_name": "HR Business Partner",
+    "job_family": "People",
+    "job_function": "Human Resources",
+    "description": "People strategy, employee relations, and compensation reviews",
+    "active_status": true
+  },
+  {
+    "role_id": "ROL-ITP",
+    "role_code": "ITP",
+    "role_name": "IT Systems Administrator",
+    "job_family": "IT & Ops",
+    "job_function": "IT Infrastructure",
+    "description": "Manages internal IT hardware, networks, and enterprise tools",
+    "active_status": true
+  },
+  {
+    "role_id": "ROL-LC",
+    "role_code": "LC",
+    "role_name": "Legal Counsel",
+    "job_family": "Legal",
+    "job_function": "Corporate Law",
+    "description": "Contract negotiation, corporate governance, and regulatory compliance",
+    "active_status": true
+  },
+  {
+    "role_id": "ROL-MLE",
+    "role_code": "MLE",
+    "role_name": "Machine Learning Engineer",
+    "job_family": "Engineering",
+    "job_function": "Applied Machine Learning",
+    "description": "Develops, deploys, and monitors ML models in production",
+    "active_status": true
+  },
+  {
+    "role_id": "ROL-OPM",
+    "role_code": "OPM",
+    "role_name": "Operations Manager",
+    "job_family": "Operations",
+    "job_function": "Business Operations",
+    "description": "Optimizes internal processes, workflows, and vendor logistics",
+    "active_status": true
+  },
+  {
+    "role_id": "ROL-PM",
+    "role_code": "PM",
+    "role_name": "Product Manager",
+    "job_family": "Product",
+    "job_function": "Product Management",
+    "description": "Defines product strategy, roadmaps, and feature execution",
+    "active_status": true
+  },
+  {
+    "role_id": "ROL-PMM",
+    "role_code": "PMM",
+    "role_name": "Product Marketing Manager",
+    "job_family": "Marketing",
+    "job_function": "Product Marketing",
+    "description": "Go-to-market strategy, product positioning, and launches",
+    "active_status": true
+  },
+  {
+    "role_id": "ROL-QA",
+    "role_code": "QA",
+    "role_name": "Quality Assurance Engineer",
+    "job_family": "Engineering",
+    "job_function": "Test Engineering",
+    "description": "Automated testing, regression suites, and test frameworks",
+    "active_status": true
+  },
+  {
+    "role_id": "ROL-REC",
+    "role_code": "REC",
+    "role_name": "Technical Recruiter",
+    "job_family": "People",
+    "job_function": "Talent Acquisition",
+    "description": "Sources, interviews, and hires technical talent",
+    "active_status": true
+  },
+  {
+    "role_id": "ROL-SDR",
+    "role_code": "SDR",
+    "role_name": "Sales Development Rep",
+    "job_family": "Sales",
+    "job_function": "Inbound & Outbound Sales",
+    "description": "Prospects and qualifies enterprise sales leads",
+    "active_status": true
+  },
+  {
+    "role_id": "ROL-SEC",
+    "role_code": "SEC",
+    "role_name": "Security Engineer",
+    "job_family": "Engineering",
+    "job_function": "Information Security",
+    "description": "Secures infrastructure, audits vulnerabilities, and manages IAM",
+    "active_status": true
+  },
+  {
+    "role_id": "ROL-SRE",
+    "role_code": "SRE",
+    "role_name": "Site Reliability Engineer",
+    "job_family": "Engineering",
+    "job_function": "Infrastructure & Reliability",
+    "description": "Ensures high uptime, observability, and scaling",
+    "active_status": true
+  },
+  {
+    "role_id": "ROL-SWE",
+    "role_code": "SWE",
+    "role_name": "Software Engineer",
+    "job_family": "Engineering",
+    "job_function": "Core Software Development",
+    "description": "Builds backend and frontend distributed systems",
+    "active_status": true
+  },
+  {
+    "role_id": "ROL-TPM",
+    "role_code": "TPM",
+    "role_name": "Technical Program Manager",
+    "job_family": "Product",
+    "job_function": "Program Management",
+    "description": "Drives cross-team engineering execution and milestones",
+    "active_status": true
+  },
+  {
+    "role_id": "ROL-TSE",
+    "role_code": "TSE",
+    "role_name": "Technical Support Engineer",
+    "job_family": "Customer Support",
+    "job_function": "Technical Support",
+    "description": "Troubleshoots customer technical issues and API integrations",
+    "active_status": true
+  },
+  {
+    "role_id": "ROL-UR",
+    "role_code": "UR",
+    "role_name": "User Researcher",
+    "job_family": "Design",
+    "job_function": "Product Research",
+    "description": "Conducts user interviews, usability testing, and insights",
+    "active_status": true
+  },
+  {
+    "role_id": "ROL-UXD",
+    "role_code": "UXD",
+    "role_name": "UX Designer",
+    "job_family": "Design",
+    "job_function": "User Experience Design",
+    "description": "Designs user journeys, wireframes, and design systems",
+    "active_status": true
+  }
+]

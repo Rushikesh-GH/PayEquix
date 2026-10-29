@@ -1,0 +1,26 @@
+role_id,role_code,role_name,job_family,job_function,description,active_status
+ROL-ACC,ACC,Corporate Accountant,Finance,Accounting & Payroll,"General ledger, statutory compliance, and payroll review",True
+ROL-AE,AE,Account Executive,Sales,Enterprise Sales,"Manages enterprise sales cycles, pipeline, and contract closing",True
+ROL-BA,BA,Business Analyst,Data & Analytics,Business Intelligence,Translates business questions into KPI dashboards and reports,True
+ROL-CSM,CSM,Customer Success Manager,Customer Success,Client Engagement,"Manages customer retention, onboarding, and satisfaction",True
+ROL-DE,DE,Data Engineer,Engineering,Data Infrastructure,"Designs data pipelines, ETL, warehouses, and streaming",True
+ROL-DGM,DGM,Digital Marketing Specialist,Marketing,Growth & Acquisition,"Drives SEO, SEM, content, and digital performance",True
+ROL-DS,DS,Data Scientist,Data & Analytics,Data Science,"Builds statistical models, experiments, and predictive analytics",True
+ROL-FA,FA,Financial Analyst,Finance,Corporate Finance,"Financial planning, forecasting, and budget modeling",True
+ROL-HRP,HRP,HR Business Partner,People,Human Resources,"People strategy, employee relations, and compensation reviews",True
+ROL-ITP,ITP,IT Systems Administrator,IT & Ops,IT Infrastructure,"Manages internal IT hardware, networks, and enterprise tools",True
+ROL-LC,LC,Legal Counsel,Legal,Corporate Law,"Contract negotiation, corporate governance, and regulatory compliance",True
+ROL-MLE,MLE,Machine Learning Engineer,Engineering,Applied Machine Learning,"Develops, deploys, and monitors ML models in production",True
+ROL-OPM,OPM,Operations Manager,Operations,Business Operations,"Optimizes internal processes, workflows, and vendor logistics",True
+ROL-PM,PM,Product Manager,Product,Product Management,"Defines product strategy, roadmaps, and feature execution",True
+ROL-PMM,PMM,Product Marketing Manager,Marketing,Product Marketing,"Go-to-market strategy, product positioning, and launches",True
+ROL-QA,QA,Quality Assurance Engineer,Engineering,Test Engineering,"Automated testing, regression suites, and test frameworks",True
+ROL-REC,REC,Technical Recruiter,People,Talent Acquisition,"Sources, interviews, and hires technical talent",True
+ROL-SDR,SDR,Sales Development Rep,Sales,Inbound & Outbound Sales,Prospects and qualifies enterprise sales leads,True
+ROL-SEC,SEC,Security Engineer,Engineering,Information Security,"Secures infrastructure, audits vulnerabilities, and manages IAM",True
+ROL-SRE,SRE,Site Reliability Engineer,Engineering,Infrastructure & Reliability,"Ensures high uptime, observability, and scaling",True
+ROL-SWE,SWE,Software Engineer,Engineering,Core Software Development,Builds backend and frontend distributed systems,True
+ROL-TPM,TPM,Technical Program Manager,Product,Program Management,Drives cross-team engineering execution and milestones,True
+ROL-TSE,TSE,Technical Support Engineer,Customer Support,Technical Support,Troubleshoots customer technical issues and API integrations,True
+ROL-UR,UR,User Researcher,Design,Product Research,"Conducts user interviews, usability testing, and insights",True
+ROL-UXD,UXD,UX Designer,Design,User Experience Design,"Designs user journeys, wireframes, and design systems",True

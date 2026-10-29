@@ -1,0 +1,16 @@
+event_id,entity_type,entity_id,action,actor,timestamp,before_values,after_values,reason,correlation_id
+AUD-000001,ADJUSTMENT_PROPOSAL,ADJ-2026-000001,CREATE_PROPOSAL,hr_lead,2026-01-15T10:00:00,,"{""status"": ""draft"", ""proposed_salary"": 69066.65}",Automated merit/market parity cycle proposal,CORR-CYCLE-2026-0001
+AUD-000002,ADJUSTMENT_PROPOSAL,ADJ-2026-000002,CREATE_PROPOSAL,hr_lead,2026-01-15T10:00:00,,"{""status"": ""draft"", ""proposed_salary"": 144843.7}",Automated merit/market parity cycle proposal,CORR-CYCLE-2026-0002
+AUD-000003,ADJUSTMENT_PROPOSAL,ADJ-2026-000003,CREATE_PROPOSAL,hr_lead,2026-01-15T10:00:00,,"{""status"": ""draft"", ""proposed_salary"": 209151.27}",Automated merit/market parity cycle proposal,CORR-CYCLE-2026-0003
+AUD-000004,ADJUSTMENT_PROPOSAL,ADJ-2026-000004,CREATE_PROPOSAL,hr_lead,2026-01-15T10:00:00,,"{""status"": ""draft"", ""proposed_salary"": 61427.26}",Automated merit/market parity cycle proposal,CORR-CYCLE-2026-0004
+AUD-000005,ADJUSTMENT_PROPOSAL,ADJ-2026-000005,CREATE_PROPOSAL,hr_lead,2026-01-15T10:00:00,,"{""status"": ""draft"", ""proposed_salary"": 3328140.27}",Automated merit/market parity cycle proposal,CORR-CYCLE-2026-0005
+AUD-000006,ADJUSTMENT_PROPOSAL,ADJ-2026-000006,CREATE_PROPOSAL,hr_lead,2026-01-15T10:00:00,,"{""status"": ""draft"", ""proposed_salary"": 108557.57}",Automated merit/market parity cycle proposal,CORR-CYCLE-2026-0006
+AUD-000007,ADJUSTMENT_PROPOSAL,ADJ-2026-000007,CREATE_PROPOSAL,hr_lead,2026-01-15T10:00:00,,"{""status"": ""draft"", ""proposed_salary"": 2375431.47}",Automated merit/market parity cycle proposal,CORR-CYCLE-2026-0007
+AUD-000008,ADJUSTMENT_PROPOSAL,ADJ-2026-000008,CREATE_PROPOSAL,hr_lead,2026-01-15T10:00:00,,"{""status"": ""draft"", ""proposed_salary"": 47082.89}",Automated merit/market parity cycle proposal,CORR-CYCLE-2026-0008
+AUD-000009,ADJUSTMENT_PROPOSAL,ADJ-2026-000009,CREATE_PROPOSAL,hr_lead,2026-01-15T10:00:00,,"{""status"": ""draft"", ""proposed_salary"": 153562.24}",Automated merit/market parity cycle proposal,CORR-CYCLE-2026-0009
+AUD-000010,ADJUSTMENT_PROPOSAL,ADJ-2026-000010,CREATE_PROPOSAL,hr_lead,2026-01-15T10:00:00,,"{""status"": ""draft"", ""proposed_salary"": 2432866.48}",Automated merit/market parity cycle proposal,CORR-CYCLE-2026-0010
+AUD-000011,ADJUSTMENT_PROPOSAL,ADJ-2026-000011,CREATE_PROPOSAL,hr_lead,2026-01-15T10:00:00,,"{""status"": ""draft"", ""proposed_salary"": 2837998.95}",Automated merit/market parity cycle proposal,CORR-CYCLE-2026-0011
+AUD-000012,ADJUSTMENT_PROPOSAL,ADJ-2026-000012,CREATE_PROPOSAL,hr_lead,2026-01-15T10:00:00,,"{""status"": ""draft"", ""proposed_salary"": 1253454.25}",Automated merit/market parity cycle proposal,CORR-CYCLE-2026-0012
+AUD-000013,ADJUSTMENT_PROPOSAL,ADJ-2026-000013,CREATE_PROPOSAL,hr_lead,2026-01-15T10:00:00,,"{""status"": ""draft"", ""proposed_salary"": 2858224.5}",Automated merit/market parity cycle proposal,CORR-CYCLE-2026-0013
+AUD-000014,ADJUSTMENT_PROPOSAL,ADJ-2026-000014,CREATE_PROPOSAL,hr_lead,2026-01-15T10:00:00,,"{""status"": ""draft"", ""proposed_salary"": 3553428.37}",Automated merit/market parity cycle proposal,CORR-CYCLE-2026-0014
+AUD-000015,ADJUSTMENT_PROPOSAL,ADJ-2026-000015,CREATE_PROPOSAL,hr_lead,2026-01-15T10:00:00,,"{""status"": ""draft"", ""proposed_salary"": 90593.31}",Automated merit/market parity cycle proposal,CORR-CYCLE-2026-0015

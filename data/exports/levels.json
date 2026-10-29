@@ -1,0 +1,66 @@
+[
+  {
+    "level_id": "LEV-IC1",
+    "level_code": "IC1",
+    "level_name": "Associate (IC1)",
+    "level_rank": 1,
+    "career_track": "individual_contributor",
+    "active_status": true
+  },
+  {
+    "level_id": "LEV-IC2",
+    "level_code": "IC2",
+    "level_name": "Mid-Level (IC2)",
+    "level_rank": 2,
+    "career_track": "individual_contributor",
+    "active_status": true
+  },
+  {
+    "level_id": "LEV-IC3",
+    "level_code": "IC3",
+    "level_name": "Senior (IC3)",
+    "level_rank": 3,
+    "career_track": "individual_contributor",
+    "active_status": true
+  },
+  {
+    "level_id": "LEV-IC4",
+    "level_code": "IC4",
+    "level_name": "Staff (IC4)",
+    "level_rank": 4,
+    "career_track": "individual_contributor",
+    "active_status": true
+  },
+  {
+    "level_id": "LEV-IC5",
+    "level_code": "IC5",
+    "level_name": "Principal (IC5)",
+    "level_rank": 5,
+    "career_track": "individual_contributor",
+    "active_status": true
+  },
+  {
+    "level_id": "LEV-M1",
+    "level_code": "M1",
+    "level_name": "Engineering/Team Manager (M1)",
+    "level_rank": 3,
+    "career_track": "management",
+    "active_status": true
+  },
+  {
+    "level_id": "LEV-M2",
+    "level_code": "M2",
+    "level_name": "Senior Manager / Director (M2)",
+    "level_rank": 4,
+    "career_track": "management",
+    "active_status": true
+  },
+  {
+    "level_id": "LEV-S1",
+    "level_code": "S1",
+    "level_name": "Domain Specialist (S1)",
+    "level_rank": 3,
+    "career_track": "specialist",
+    "active_status": true
+  }
+]

@@ -1,0 +1,124 @@
+{
+  "status": "COMPLETED",
+  "total_scenarios": 10,
+  "true_positives": 7,
+  "false_positives": 0,
+  "true_negatives": 3,
+  "false_negatives": 0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1_score": 1.0,
+  "per_scenario_results": {
+    "SCENARIO_A": {
+      "status": "DETECTED",
+      "expected": "DATA_QUALITY_EXCEPTION",
+      "observed": "DATA_QUALITY_EXCEPTION",
+      "rule": "RULE-DQ-001"
+    },
+    "SCENARIO_B": {
+      "status": "DETECTED",
+      "expected": "DATA_QUALITY_EXCEPTION",
+      "observed": "DATA_QUALITY_EXCEPTION",
+      "rule": "RULE-DQ-003"
+    },
+    "SCENARIO_C": {
+      "status": "DETECTED",
+      "expected": "DATA_QUALITY_EXCEPTION",
+      "observed": "DATA_QUALITY_EXCEPTION",
+      "rule": "RULE-DQ-002"
+    },
+    "SCENARIO_D": {
+      "status": "DETECTED",
+      "expected": "DATA_QUALITY_EXCEPTION",
+      "observed": "DATA_QUALITY_EXCEPTION",
+      "rule": "RULE-DQ-005"
+    },
+    "SCENARIO_E": {
+      "status": "DETECTED",
+      "expected": "DATA_QUALITY_EXCEPTION",
+      "observed": "DATA_QUALITY_EXCEPTION",
+      "rule": "RULE-DQ-004"
+    },
+    "OUTLIER_ABOVE_BAND": {
+      "status": "DETECTED",
+      "expected": "REVIEW_CANDIDATE",
+      "observed": "REVIEW_CANDIDATE",
+      "rule": "RULE-DISP-002"
+    },
+    "OUTLIER_BELOW_BAND": {
+      "status": "DETECTED",
+      "expected": "REVIEW_CANDIDATE",
+      "observed": "REVIEW_CANDIDATE",
+      "rule": "RULE-DISP-001"
+    },
+    "BOUNDARY_EXACT_MAX": {
+      "status": "CORRECT_NEGATIVE",
+      "expected": "VALID",
+      "observed": "VALID",
+      "rule": "NONE"
+    },
+    "BOUNDARY_EXACT_MID": {
+      "status": "CORRECT_NEGATIVE",
+      "expected": "VALID",
+      "observed": "VALID",
+      "rule": "NONE"
+    },
+    "BOUNDARY_EXACT_MIN": {
+      "status": "CORRECT_NEGATIVE",
+      "expected": "VALID",
+      "observed": "VALID",
+      "rule": "NONE"
+    }
+  },
+  "per_rule_metrics": {
+    "RULE-DQ-001": {
+      "tp": 1,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "RULE-DQ-003": {
+      "tp": 1,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "RULE-DQ-002": {
+      "tp": 1,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "RULE-DQ-005": {
+      "tp": 1,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "RULE-DQ-004": {
+      "tp": 1,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "RULE-DISP-002": {
+      "tp": 1,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "RULE-DISP-001": {
+      "tp": 1,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    }
+  }
+}

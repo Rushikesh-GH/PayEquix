@@ -1,0 +1,9 @@
+level_id,level_code,level_name,level_rank,career_track,active_status
+LEV-IC1,IC1,Associate (IC1),1,individual_contributor,True
+LEV-IC2,IC2,Mid-Level (IC2),2,individual_contributor,True
+LEV-IC3,IC3,Senior (IC3),3,individual_contributor,True
+LEV-IC4,IC4,Staff (IC4),4,individual_contributor,True
+LEV-IC5,IC5,Principal (IC5),5,individual_contributor,True
+LEV-M1,M1,Engineering/Team Manager (M1),3,management,True
+LEV-M2,M2,Senior Manager / Director (M2),4,management,True
+LEV-S1,S1,Domain Specialist (S1),3,specialist,True

@@ -1,0 +1,201 @@
+group_id,group_code,group_name,role_id,level_id,location_zone,min_size,is_active,equivalency_rationale,approved_by,is_equivalent_group,created_at
+GRP-000001,ROL-SWE_LEV-IC1,Software Engineer - Associate (IC1),ROL-SWE,LEV-IC1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000002,ROL-SWE_LEV-IC2,Software Engineer - Mid-Level (IC2),ROL-SWE,LEV-IC2,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000003,ROL-SWE_LEV-IC3,Software Engineer - Senior (IC3),ROL-SWE,LEV-IC3,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000004,ROL-SWE_LEV-IC4,Software Engineer - Staff (IC4),ROL-SWE,LEV-IC4,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000005,ROL-SWE_LEV-IC5,Software Engineer - Principal (IC5),ROL-SWE,LEV-IC5,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000006,ROL-SWE_LEV-M1,Software Engineer - Engineering/Team Manager (M1),ROL-SWE,LEV-M1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000007,ROL-SWE_LEV-M2,Software Engineer - Senior Manager / Director (M2),ROL-SWE,LEV-M2,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000008,ROL-SWE_LEV-S1,Software Engineer - Domain Specialist (S1),ROL-SWE,LEV-S1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000009,ROL-SRE_LEV-IC1,Site Reliability Engineer - Associate (IC1),ROL-SRE,LEV-IC1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000010,ROL-SRE_LEV-IC2,Site Reliability Engineer - Mid-Level (IC2),ROL-SRE,LEV-IC2,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000011,ROL-SRE_LEV-IC3,Site Reliability Engineer - Senior (IC3),ROL-SRE,LEV-IC3,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000012,ROL-SRE_LEV-IC4,Site Reliability Engineer - Staff (IC4),ROL-SRE,LEV-IC4,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000013,ROL-SRE_LEV-IC5,Site Reliability Engineer - Principal (IC5),ROL-SRE,LEV-IC5,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000014,ROL-SRE_LEV-M1,Site Reliability Engineer - Engineering/Team Manager (M1),ROL-SRE,LEV-M1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000015,ROL-SRE_LEV-M2,Site Reliability Engineer - Senior Manager / Director (M2),ROL-SRE,LEV-M2,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000016,ROL-SRE_LEV-S1,Site Reliability Engineer - Domain Specialist (S1),ROL-SRE,LEV-S1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000017,ROL-SEC_LEV-IC1,Security Engineer - Associate (IC1),ROL-SEC,LEV-IC1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000018,ROL-SEC_LEV-IC2,Security Engineer - Mid-Level (IC2),ROL-SEC,LEV-IC2,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000019,ROL-SEC_LEV-IC3,Security Engineer - Senior (IC3),ROL-SEC,LEV-IC3,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000020,ROL-SEC_LEV-IC4,Security Engineer - Staff (IC4),ROL-SEC,LEV-IC4,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000021,ROL-SEC_LEV-IC5,Security Engineer - Principal (IC5),ROL-SEC,LEV-IC5,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000022,ROL-SEC_LEV-M1,Security Engineer - Engineering/Team Manager (M1),ROL-SEC,LEV-M1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000023,ROL-SEC_LEV-M2,Security Engineer - Senior Manager / Director (M2),ROL-SEC,LEV-M2,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000024,ROL-SEC_LEV-S1,Security Engineer - Domain Specialist (S1),ROL-SEC,LEV-S1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000025,ROL-DE_LEV-IC1,Data Engineer - Associate (IC1),ROL-DE,LEV-IC1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000026,ROL-DE_LEV-IC2,Data Engineer - Mid-Level (IC2),ROL-DE,LEV-IC2,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000027,ROL-DE_LEV-IC3,Data Engineer - Senior (IC3),ROL-DE,LEV-IC3,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000028,ROL-DE_LEV-IC4,Data Engineer - Staff (IC4),ROL-DE,LEV-IC4,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000029,ROL-DE_LEV-IC5,Data Engineer - Principal (IC5),ROL-DE,LEV-IC5,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000030,ROL-DE_LEV-M1,Data Engineer - Engineering/Team Manager (M1),ROL-DE,LEV-M1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000031,ROL-DE_LEV-M2,Data Engineer - Senior Manager / Director (M2),ROL-DE,LEV-M2,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000032,ROL-DE_LEV-S1,Data Engineer - Domain Specialist (S1),ROL-DE,LEV-S1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000033,ROL-QA_LEV-IC1,Quality Assurance Engineer - Associate (IC1),ROL-QA,LEV-IC1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000034,ROL-QA_LEV-IC2,Quality Assurance Engineer - Mid-Level (IC2),ROL-QA,LEV-IC2,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000035,ROL-QA_LEV-IC3,Quality Assurance Engineer - Senior (IC3),ROL-QA,LEV-IC3,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000036,ROL-QA_LEV-IC4,Quality Assurance Engineer - Staff (IC4),ROL-QA,LEV-IC4,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000037,ROL-QA_LEV-IC5,Quality Assurance Engineer - Principal (IC5),ROL-QA,LEV-IC5,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000038,ROL-QA_LEV-M1,Quality Assurance Engineer - Engineering/Team Manager (M1),ROL-QA,LEV-M1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000039,ROL-QA_LEV-M2,Quality Assurance Engineer - Senior Manager / Director (M2),ROL-QA,LEV-M2,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000040,ROL-QA_LEV-S1,Quality Assurance Engineer - Domain Specialist (S1),ROL-QA,LEV-S1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000041,ROL-MLE_LEV-IC1,Machine Learning Engineer - Associate (IC1),ROL-MLE,LEV-IC1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000042,ROL-MLE_LEV-IC2,Machine Learning Engineer - Mid-Level (IC2),ROL-MLE,LEV-IC2,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000043,ROL-MLE_LEV-IC3,Machine Learning Engineer - Senior (IC3),ROL-MLE,LEV-IC3,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000044,ROL-MLE_LEV-IC4,Machine Learning Engineer - Staff (IC4),ROL-MLE,LEV-IC4,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000045,ROL-MLE_LEV-IC5,Machine Learning Engineer - Principal (IC5),ROL-MLE,LEV-IC5,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000046,ROL-MLE_LEV-M1,Machine Learning Engineer - Engineering/Team Manager (M1),ROL-MLE,LEV-M1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000047,ROL-MLE_LEV-M2,Machine Learning Engineer - Senior Manager / Director (M2),ROL-MLE,LEV-M2,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000048,ROL-MLE_LEV-S1,Machine Learning Engineer - Domain Specialist (S1),ROL-MLE,LEV-S1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000049,ROL-PM_LEV-IC1,Product Manager - Associate (IC1),ROL-PM,LEV-IC1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000050,ROL-PM_LEV-IC2,Product Manager - Mid-Level (IC2),ROL-PM,LEV-IC2,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000051,ROL-PM_LEV-IC3,Product Manager - Senior (IC3),ROL-PM,LEV-IC3,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000052,ROL-PM_LEV-IC4,Product Manager - Staff (IC4),ROL-PM,LEV-IC4,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000053,ROL-PM_LEV-IC5,Product Manager - Principal (IC5),ROL-PM,LEV-IC5,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000054,ROL-PM_LEV-M1,Product Manager - Engineering/Team Manager (M1),ROL-PM,LEV-M1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000055,ROL-PM_LEV-M2,Product Manager - Senior Manager / Director (M2),ROL-PM,LEV-M2,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000056,ROL-PM_LEV-S1,Product Manager - Domain Specialist (S1),ROL-PM,LEV-S1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000057,ROL-TPM_LEV-IC1,Technical Program Manager - Associate (IC1),ROL-TPM,LEV-IC1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000058,ROL-TPM_LEV-IC2,Technical Program Manager - Mid-Level (IC2),ROL-TPM,LEV-IC2,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000059,ROL-TPM_LEV-IC3,Technical Program Manager - Senior (IC3),ROL-TPM,LEV-IC3,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000060,ROL-TPM_LEV-IC4,Technical Program Manager - Staff (IC4),ROL-TPM,LEV-IC4,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000061,ROL-TPM_LEV-IC5,Technical Program Manager - Principal (IC5),ROL-TPM,LEV-IC5,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000062,ROL-TPM_LEV-M1,Technical Program Manager - Engineering/Team Manager (M1),ROL-TPM,LEV-M1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000063,ROL-TPM_LEV-M2,Technical Program Manager - Senior Manager / Director (M2),ROL-TPM,LEV-M2,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000064,ROL-TPM_LEV-S1,Technical Program Manager - Domain Specialist (S1),ROL-TPM,LEV-S1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000065,ROL-UXD_LEV-IC1,UX Designer - Associate (IC1),ROL-UXD,LEV-IC1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000066,ROL-UXD_LEV-IC2,UX Designer - Mid-Level (IC2),ROL-UXD,LEV-IC2,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000067,ROL-UXD_LEV-IC3,UX Designer - Senior (IC3),ROL-UXD,LEV-IC3,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000068,ROL-UXD_LEV-IC4,UX Designer - Staff (IC4),ROL-UXD,LEV-IC4,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000069,ROL-UXD_LEV-IC5,UX Designer - Principal (IC5),ROL-UXD,LEV-IC5,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000070,ROL-UXD_LEV-M1,UX Designer - Engineering/Team Manager (M1),ROL-UXD,LEV-M1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000071,ROL-UXD_LEV-M2,UX Designer - Senior Manager / Director (M2),ROL-UXD,LEV-M2,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000072,ROL-UXD_LEV-S1,UX Designer - Domain Specialist (S1),ROL-UXD,LEV-S1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000073,ROL-UR_LEV-IC1,User Researcher - Associate (IC1),ROL-UR,LEV-IC1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000074,ROL-UR_LEV-IC2,User Researcher - Mid-Level (IC2),ROL-UR,LEV-IC2,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000075,ROL-UR_LEV-IC3,User Researcher - Senior (IC3),ROL-UR,LEV-IC3,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000076,ROL-UR_LEV-IC4,User Researcher - Staff (IC4),ROL-UR,LEV-IC4,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000077,ROL-UR_LEV-IC5,User Researcher - Principal (IC5),ROL-UR,LEV-IC5,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000078,ROL-UR_LEV-M1,User Researcher - Engineering/Team Manager (M1),ROL-UR,LEV-M1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000079,ROL-UR_LEV-M2,User Researcher - Senior Manager / Director (M2),ROL-UR,LEV-M2,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000080,ROL-UR_LEV-S1,User Researcher - Domain Specialist (S1),ROL-UR,LEV-S1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000081,ROL-DS_LEV-IC1,Data Scientist - Associate (IC1),ROL-DS,LEV-IC1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000082,ROL-DS_LEV-IC2,Data Scientist - Mid-Level (IC2),ROL-DS,LEV-IC2,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000083,ROL-DS_LEV-IC3,Data Scientist - Senior (IC3),ROL-DS,LEV-IC3,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000084,ROL-DS_LEV-IC4,Data Scientist - Staff (IC4),ROL-DS,LEV-IC4,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000085,ROL-DS_LEV-IC5,Data Scientist - Principal (IC5),ROL-DS,LEV-IC5,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000086,ROL-DS_LEV-M1,Data Scientist - Engineering/Team Manager (M1),ROL-DS,LEV-M1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000087,ROL-DS_LEV-M2,Data Scientist - Senior Manager / Director (M2),ROL-DS,LEV-M2,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000088,ROL-DS_LEV-S1,Data Scientist - Domain Specialist (S1),ROL-DS,LEV-S1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000089,ROL-BA_LEV-IC1,Business Analyst - Associate (IC1),ROL-BA,LEV-IC1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000090,ROL-BA_LEV-IC2,Business Analyst - Mid-Level (IC2),ROL-BA,LEV-IC2,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000091,ROL-BA_LEV-IC3,Business Analyst - Senior (IC3),ROL-BA,LEV-IC3,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000092,ROL-BA_LEV-IC4,Business Analyst - Staff (IC4),ROL-BA,LEV-IC4,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000093,ROL-BA_LEV-IC5,Business Analyst - Principal (IC5),ROL-BA,LEV-IC5,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000094,ROL-BA_LEV-M1,Business Analyst - Engineering/Team Manager (M1),ROL-BA,LEV-M1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000095,ROL-BA_LEV-M2,Business Analyst - Senior Manager / Director (M2),ROL-BA,LEV-M2,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000096,ROL-BA_LEV-S1,Business Analyst - Domain Specialist (S1),ROL-BA,LEV-S1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000097,ROL-AE_LEV-IC1,Account Executive - Associate (IC1),ROL-AE,LEV-IC1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000098,ROL-AE_LEV-IC2,Account Executive - Mid-Level (IC2),ROL-AE,LEV-IC2,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000099,ROL-AE_LEV-IC3,Account Executive - Senior (IC3),ROL-AE,LEV-IC3,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000100,ROL-AE_LEV-IC4,Account Executive - Staff (IC4),ROL-AE,LEV-IC4,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000101,ROL-AE_LEV-IC5,Account Executive - Principal (IC5),ROL-AE,LEV-IC5,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000102,ROL-AE_LEV-M1,Account Executive - Engineering/Team Manager (M1),ROL-AE,LEV-M1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000103,ROL-AE_LEV-M2,Account Executive - Senior Manager / Director (M2),ROL-AE,LEV-M2,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000104,ROL-AE_LEV-S1,Account Executive - Domain Specialist (S1),ROL-AE,LEV-S1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000105,ROL-SDR_LEV-IC1,Sales Development Rep - Associate (IC1),ROL-SDR,LEV-IC1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000106,ROL-SDR_LEV-IC2,Sales Development Rep - Mid-Level (IC2),ROL-SDR,LEV-IC2,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000107,ROL-SDR_LEV-IC3,Sales Development Rep - Senior (IC3),ROL-SDR,LEV-IC3,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000108,ROL-SDR_LEV-IC4,Sales Development Rep - Staff (IC4),ROL-SDR,LEV-IC4,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000109,ROL-SDR_LEV-IC5,Sales Development Rep - Principal (IC5),ROL-SDR,LEV-IC5,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000110,ROL-SDR_LEV-M1,Sales Development Rep - Engineering/Team Manager (M1),ROL-SDR,LEV-M1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000111,ROL-SDR_LEV-M2,Sales Development Rep - Senior Manager / Director (M2),ROL-SDR,LEV-M2,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000112,ROL-SDR_LEV-S1,Sales Development Rep - Domain Specialist (S1),ROL-SDR,LEV-S1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000113,ROL-PMM_LEV-IC1,Product Marketing Manager - Associate (IC1),ROL-PMM,LEV-IC1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000114,ROL-PMM_LEV-IC2,Product Marketing Manager - Mid-Level (IC2),ROL-PMM,LEV-IC2,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000115,ROL-PMM_LEV-IC3,Product Marketing Manager - Senior (IC3),ROL-PMM,LEV-IC3,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000116,ROL-PMM_LEV-IC4,Product Marketing Manager - Staff (IC4),ROL-PMM,LEV-IC4,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000117,ROL-PMM_LEV-IC5,Product Marketing Manager - Principal (IC5),ROL-PMM,LEV-IC5,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000118,ROL-PMM_LEV-M1,Product Marketing Manager - Engineering/Team Manager (M1),ROL-PMM,LEV-M1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000119,ROL-PMM_LEV-M2,Product Marketing Manager - Senior Manager / Director (M2),ROL-PMM,LEV-M2,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000120,ROL-PMM_LEV-S1,Product Marketing Manager - Domain Specialist (S1),ROL-PMM,LEV-S1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000121,ROL-DGM_LEV-IC1,Digital Marketing Specialist - Associate (IC1),ROL-DGM,LEV-IC1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000122,ROL-DGM_LEV-IC2,Digital Marketing Specialist - Mid-Level (IC2),ROL-DGM,LEV-IC2,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000123,ROL-DGM_LEV-IC3,Digital Marketing Specialist - Senior (IC3),ROL-DGM,LEV-IC3,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000124,ROL-DGM_LEV-IC4,Digital Marketing Specialist - Staff (IC4),ROL-DGM,LEV-IC4,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000125,ROL-DGM_LEV-IC5,Digital Marketing Specialist - Principal (IC5),ROL-DGM,LEV-IC5,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000126,ROL-DGM_LEV-M1,Digital Marketing Specialist - Engineering/Team Manager (M1),ROL-DGM,LEV-M1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000127,ROL-DGM_LEV-M2,Digital Marketing Specialist - Senior Manager / Director (M2),ROL-DGM,LEV-M2,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000128,ROL-DGM_LEV-S1,Digital Marketing Specialist - Domain Specialist (S1),ROL-DGM,LEV-S1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000129,ROL-CSM_LEV-IC1,Customer Success Manager - Associate (IC1),ROL-CSM,LEV-IC1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000130,ROL-CSM_LEV-IC2,Customer Success Manager - Mid-Level (IC2),ROL-CSM,LEV-IC2,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000131,ROL-CSM_LEV-IC3,Customer Success Manager - Senior (IC3),ROL-CSM,LEV-IC3,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000132,ROL-CSM_LEV-IC4,Customer Success Manager - Staff (IC4),ROL-CSM,LEV-IC4,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000133,ROL-CSM_LEV-IC5,Customer Success Manager - Principal (IC5),ROL-CSM,LEV-IC5,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000134,ROL-CSM_LEV-M1,Customer Success Manager - Engineering/Team Manager (M1),ROL-CSM,LEV-M1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000135,ROL-CSM_LEV-M2,Customer Success Manager - Senior Manager / Director (M2),ROL-CSM,LEV-M2,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000136,ROL-CSM_LEV-S1,Customer Success Manager - Domain Specialist (S1),ROL-CSM,LEV-S1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000137,ROL-TSE_LEV-IC1,Technical Support Engineer - Associate (IC1),ROL-TSE,LEV-IC1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000138,ROL-TSE_LEV-IC2,Technical Support Engineer - Mid-Level (IC2),ROL-TSE,LEV-IC2,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000139,ROL-TSE_LEV-IC3,Technical Support Engineer - Senior (IC3),ROL-TSE,LEV-IC3,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000140,ROL-TSE_LEV-IC4,Technical Support Engineer - Staff (IC4),ROL-TSE,LEV-IC4,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000141,ROL-TSE_LEV-IC5,Technical Support Engineer - Principal (IC5),ROL-TSE,LEV-IC5,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000142,ROL-TSE_LEV-M1,Technical Support Engineer - Engineering/Team Manager (M1),ROL-TSE,LEV-M1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000143,ROL-TSE_LEV-M2,Technical Support Engineer - Senior Manager / Director (M2),ROL-TSE,LEV-M2,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000144,ROL-TSE_LEV-S1,Technical Support Engineer - Domain Specialist (S1),ROL-TSE,LEV-S1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000145,ROL-FA_LEV-IC1,Financial Analyst - Associate (IC1),ROL-FA,LEV-IC1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000146,ROL-FA_LEV-IC2,Financial Analyst - Mid-Level (IC2),ROL-FA,LEV-IC2,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000147,ROL-FA_LEV-IC3,Financial Analyst - Senior (IC3),ROL-FA,LEV-IC3,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000148,ROL-FA_LEV-IC4,Financial Analyst - Staff (IC4),ROL-FA,LEV-IC4,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000149,ROL-FA_LEV-IC5,Financial Analyst - Principal (IC5),ROL-FA,LEV-IC5,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000150,ROL-FA_LEV-M1,Financial Analyst - Engineering/Team Manager (M1),ROL-FA,LEV-M1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000151,ROL-FA_LEV-M2,Financial Analyst - Senior Manager / Director (M2),ROL-FA,LEV-M2,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000152,ROL-FA_LEV-S1,Financial Analyst - Domain Specialist (S1),ROL-FA,LEV-S1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000153,ROL-ACC_LEV-IC1,Corporate Accountant - Associate (IC1),ROL-ACC,LEV-IC1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000154,ROL-ACC_LEV-IC2,Corporate Accountant - Mid-Level (IC2),ROL-ACC,LEV-IC2,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000155,ROL-ACC_LEV-IC3,Corporate Accountant - Senior (IC3),ROL-ACC,LEV-IC3,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000156,ROL-ACC_LEV-IC4,Corporate Accountant - Staff (IC4),ROL-ACC,LEV-IC4,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000157,ROL-ACC_LEV-IC5,Corporate Accountant - Principal (IC5),ROL-ACC,LEV-IC5,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000158,ROL-ACC_LEV-M1,Corporate Accountant - Engineering/Team Manager (M1),ROL-ACC,LEV-M1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000159,ROL-ACC_LEV-M2,Corporate Accountant - Senior Manager / Director (M2),ROL-ACC,LEV-M2,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000160,ROL-ACC_LEV-S1,Corporate Accountant - Domain Specialist (S1),ROL-ACC,LEV-S1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000161,ROL-LC_LEV-IC1,Legal Counsel - Associate (IC1),ROL-LC,LEV-IC1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000162,ROL-LC_LEV-IC2,Legal Counsel - Mid-Level (IC2),ROL-LC,LEV-IC2,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000163,ROL-LC_LEV-IC3,Legal Counsel - Senior (IC3),ROL-LC,LEV-IC3,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000164,ROL-LC_LEV-IC4,Legal Counsel - Staff (IC4),ROL-LC,LEV-IC4,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000165,ROL-LC_LEV-IC5,Legal Counsel - Principal (IC5),ROL-LC,LEV-IC5,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000166,ROL-LC_LEV-M1,Legal Counsel - Engineering/Team Manager (M1),ROL-LC,LEV-M1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000167,ROL-LC_LEV-M2,Legal Counsel - Senior Manager / Director (M2),ROL-LC,LEV-M2,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000168,ROL-LC_LEV-S1,Legal Counsel - Domain Specialist (S1),ROL-LC,LEV-S1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000169,ROL-HRP_LEV-IC1,HR Business Partner - Associate (IC1),ROL-HRP,LEV-IC1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000170,ROL-HRP_LEV-IC2,HR Business Partner - Mid-Level (IC2),ROL-HRP,LEV-IC2,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000171,ROL-HRP_LEV-IC3,HR Business Partner - Senior (IC3),ROL-HRP,LEV-IC3,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000172,ROL-HRP_LEV-IC4,HR Business Partner - Staff (IC4),ROL-HRP,LEV-IC4,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000173,ROL-HRP_LEV-IC5,HR Business Partner - Principal (IC5),ROL-HRP,LEV-IC5,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000174,ROL-HRP_LEV-M1,HR Business Partner - Engineering/Team Manager (M1),ROL-HRP,LEV-M1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000175,ROL-HRP_LEV-M2,HR Business Partner - Senior Manager / Director (M2),ROL-HRP,LEV-M2,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000176,ROL-HRP_LEV-S1,HR Business Partner - Domain Specialist (S1),ROL-HRP,LEV-S1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000177,ROL-REC_LEV-IC1,Technical Recruiter - Associate (IC1),ROL-REC,LEV-IC1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000178,ROL-REC_LEV-IC2,Technical Recruiter - Mid-Level (IC2),ROL-REC,LEV-IC2,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000179,ROL-REC_LEV-IC3,Technical Recruiter - Senior (IC3),ROL-REC,LEV-IC3,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000180,ROL-REC_LEV-IC4,Technical Recruiter - Staff (IC4),ROL-REC,LEV-IC4,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000181,ROL-REC_LEV-IC5,Technical Recruiter - Principal (IC5),ROL-REC,LEV-IC5,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000182,ROL-REC_LEV-M1,Technical Recruiter - Engineering/Team Manager (M1),ROL-REC,LEV-M1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000183,ROL-REC_LEV-M2,Technical Recruiter - Senior Manager / Director (M2),ROL-REC,LEV-M2,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000184,ROL-REC_LEV-S1,Technical Recruiter - Domain Specialist (S1),ROL-REC,LEV-S1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000185,ROL-OPM_LEV-IC1,Operations Manager - Associate (IC1),ROL-OPM,LEV-IC1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000186,ROL-OPM_LEV-IC2,Operations Manager - Mid-Level (IC2),ROL-OPM,LEV-IC2,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000187,ROL-OPM_LEV-IC3,Operations Manager - Senior (IC3),ROL-OPM,LEV-IC3,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000188,ROL-OPM_LEV-IC4,Operations Manager - Staff (IC4),ROL-OPM,LEV-IC4,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000189,ROL-OPM_LEV-IC5,Operations Manager - Principal (IC5),ROL-OPM,LEV-IC5,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000190,ROL-OPM_LEV-M1,Operations Manager - Engineering/Team Manager (M1),ROL-OPM,LEV-M1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000191,ROL-OPM_LEV-M2,Operations Manager - Senior Manager / Director (M2),ROL-OPM,LEV-M2,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000192,ROL-OPM_LEV-S1,Operations Manager - Domain Specialist (S1),ROL-OPM,LEV-S1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000193,ROL-ITP_LEV-IC1,IT Systems Administrator - Associate (IC1),ROL-ITP,LEV-IC1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000194,ROL-ITP_LEV-IC2,IT Systems Administrator - Mid-Level (IC2),ROL-ITP,LEV-IC2,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000195,ROL-ITP_LEV-IC3,IT Systems Administrator - Senior (IC3),ROL-ITP,LEV-IC3,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000196,ROL-ITP_LEV-IC4,IT Systems Administrator - Staff (IC4),ROL-ITP,LEV-IC4,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000197,ROL-ITP_LEV-IC5,IT Systems Administrator - Principal (IC5),ROL-ITP,LEV-IC5,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000198,ROL-ITP_LEV-M1,IT Systems Administrator - Engineering/Team Manager (M1),ROL-ITP,LEV-M1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000199,ROL-ITP_LEV-M2,IT Systems Administrator - Senior Manager / Director (M2),ROL-ITP,LEV-M2,Global,5,True,,system_admin,False,2024-01-01T00:00:00
+GRP-000200,ROL-ITP_LEV-S1,IT Systems Administrator - Domain Specialist (S1),ROL-ITP,LEV-S1,Global,5,True,,system_admin,False,2024-01-01T00:00:00
